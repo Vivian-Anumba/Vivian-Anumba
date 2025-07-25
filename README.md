@@ -7,17 +7,17 @@ Helping people and businesses get insight, stay organized, creative, and informe
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
-- 🎓 Certified Virtual Assistant with a passion for simplifying tasks
-- ✍️ I love writing clear, compelling content and proofreading with precision
-- 🧠 Mastering SQL, Python, and Power BI for data-driven solutions
-- 🎨 Skilled in Canva design, content creation & digital tools
-- 💡 On a mission to grow, help others, and build meaningful online experiences
+- Certified Virtual Assistant with a passion for simplifying tasks
+- I love writing clear, compelling content and proofreading with precision
+- Mastering SQL, Python, and Power BI for data-driven solutions
+- Skilled in Canva design, content creation & digital tools
+- On a mission to grow, help others, and build meaningful online experiences
 
 ---
 
-### 🛠️ Tools & Technologies I Use
+### Tools & Technologies I Use
 
 - **Virtual Assistant Tools**: Gmail · Google Calendar · Slack · Trello · Asana · Dropbox
 - **Design & Content**: Canva · Microsoft Word · PowerPoint
@@ -26,16 +26,16 @@ Helping people and businesses get insight, stay organized, creative, and informe
 
 ---
 
-### 🌱 Current Goals
+### Current Goals
 
-- 📈 Build a strong digital portfolio
-- 🧪 Complete data analysis projects
-- 🤝 Gain real-world experience with clients
-- 🏡 Support small businesses through creative & admin support
+- Build a strong digital portfolio
+- Complete data analysis projects
+- Gain real-world experience with clients
+- Support small businesses through creative & admin support
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 
 - 💼 LinkedIn: [Vivian Anumba](http://www.linkedin.com/in/vivian-anumba-a283a930a)
 - 📧 Email: viviananumba2021@gmail.com
